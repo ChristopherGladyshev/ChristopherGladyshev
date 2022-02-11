@@ -1,6 +1,5 @@
 
 <div style="font-family: Roboto, sans-serif; letter-spacing: 0.07rem">
-    <style> .contact:hover { opacity: 0.5; transition: all .3s }</style>
 
 <h1 align="center" >Hi there, I'm <a href="https://si-cat.ru/" target="_blank">Christopher</a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
