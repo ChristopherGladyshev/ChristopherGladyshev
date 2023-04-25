@@ -8,7 +8,7 @@
 
 
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChristopherGladyshev)](https://github.com/ChristopherGladyshev/)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChristopherGladyshev)](https://git.io/streak-stats)
 
